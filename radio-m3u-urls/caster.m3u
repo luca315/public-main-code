@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",I LOVE RADIO
+#EXTINF:-1 I LOVE RADIO
 https://play.ilovemusic.de/ilm_iloveradio/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",I LOVE 2 DANCE
+#EXTINF:-1 I LOVE 2 DANCE
 https://play.ilovemusic.de/ilm_ilove2dance/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",I LOVE MAINSTAGE
+#EXTINF:-1 I LOVE MAINSTAGE
 https://play.ilovemusic.de/ilm_ilovemainstagemadness/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",I LOVE CHILLHOP
+#EXTINF:-1 I LOVE CHILLHOP
 https://play.ilovemusic.de/ilm_ilovechillhop/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",CHILLSKY LOFI HIPHOP
+#EXTINF:-1 CHILLSKY LOFI HIPHOP
 https://lfhh.radioca.st/stream
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",FLUXFM CHILLHOP
+#EXTINF:-1 FLUXFM CHILLHOP
 https://streams.fluxfm.de/Chillhop/mp3-128/streams.fluxfm.de/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",OSTSEEWELLE
+#EXTINF:-1 OSTSEEWELLE
 https://ostseewelle.stream30.radiohost.de/ostseewelle-ost_mp3-192
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",SUNSHINE LIVE FESTIVAL
+#EXTINF:-1 SUNSHINE LIVE FESTIVAL
 https://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",SUNSHINE LIVE I AM RAVING
+#EXTINF:-1 SUNSHINE LIVE I AM RAVING
 https://stream.sunshine-live.de/iamraving/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",SUNSHINE LIVE REMIX
+#EXTINF:-1 SUNSHINE LIVE REMIX
 https://stream.sunshine-live.de/remix/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",1-LIVE MAIN
+#EXTINF:-1 1-LIVE MAIN
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",1-LIVE DIGGI
+#EXTINF:-1 1-LIVE DIGGI
 https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/120px-VLC_Icon.svg.png",NDR INFO
+#EXTINF:-1 NDR INFO
 http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
